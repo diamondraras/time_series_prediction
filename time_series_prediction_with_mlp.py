@@ -532,7 +532,6 @@ print(f'Erreur approximation moyenne: {sum(erreur)/len(erreur)}')
 nb_input = nbUniteEntree(erreur)
 print(f'Nombre unité d\'entrée : {nb_input}')
 
-# ETO TSY AIKO INTSONY
 X = list()
 Y = list()
 
